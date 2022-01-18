@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler\source\repos\Species\Species\Source.cpp(10,44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Species.vcxproj -> C:\Users\tyler\source\repos\Species\Debug\Species.exe
